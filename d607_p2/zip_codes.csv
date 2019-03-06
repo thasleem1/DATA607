@@ -1,0 +1,604 @@
+﻿region,City,County,Type
+20588,Dhs,Howard,Unique
+20601,Waldorf,Charles,Standard
+20602,Waldorf,Charles,Standard
+20603,Waldorf,Charles,Standard
+20604,Waldorf,Charles,P.O. Box
+20606,Abell,Saint Marys,Standard
+20607,Accokeek,Prince Georges,Standard
+20608,Aquasco,Prince Georges,Standard
+20609,Avenue,Saint Marys,Standard
+20610,Barstow,Calvert,P.O. Box
+20611,Bel Alton,Charles,Standard
+20612,Benedict,Charles,P.O. Box
+20613,Brandywine,Prince Georges,Standard
+20615,Broomes Island,Calvert,Standard
+20616,Bryans Road,Charles,Standard
+20617,Bryantown,Charles,Standard
+20618,Bushwood,Saint Marys,Standard
+20619,California,Saint Marys,Standard
+20620,Callaway,Saint Marys,Standard
+20621,Chaptico,Saint Marys,Standard
+20622,Charlotte Hall,Charles,Standard
+20623,Cheltenham,Prince Georges,Standard
+20624,Clements,Saint Marys,Standard
+20625,Cobb Island,Charles,P.O. Box
+20626,Coltons Point,Saint Marys,Standard
+20627,Compton,Saint Marys,P.O. Box
+20628,Dameron,Saint Marys,Standard
+20629,Dowell,Calvert,P.O. Box
+20630,Drayden,Saint Marys,Standard
+20632,Faulkner,Charles,Standard
+20634,Great Mills,Saint Marys,Standard
+20635,Helen,Saint Marys,P.O. Box
+20636,Hollywood,Saint Marys,Standard
+20637,Hughesville,Charles,Standard
+20639,Huntingtown,Calvert,Standard
+20640,Indian Head,Charles,Standard
+20643,Ironsides,Charles,P.O. Box
+20645,Issue,Charles,Standard
+20646,La Plata,Charles,Standard
+20650,Leonardtown,Saint Marys,Standard
+20653,Lexington Park,Saint Marys,Standard
+20656,Loveville,Saint Marys,Standard
+20657,Lusby,Calvert,Standard
+20658,Marbury,Charles,Standard
+20659,Mechanicsville,Saint Marys,Standard
+20660,Morganza,Saint Marys,P.O. Box
+20661,Mount Victoria,Charles,P.O. Box
+20662,Nanjemoy,Charles,Standard
+20664,Newburg,Charles,Standard
+20667,Park Hall,Saint Marys,Standard
+20670,Patuxent River,Saint Marys,Standard
+20674,Piney Point,Saint Marys,Standard
+20675,Pomfret,Charles,Standard
+20676,Port Republic,Calvert,Standard
+20677,Port Tobacco,Charles,Standard
+20678,Prince Frederick,Calvert,Standard
+20680,Ridge,Saint Marys,Standard
+20682,Rock Point,Charles,P.O. Box
+20684,Saint Inigoes,Saint Marys,Standard
+20685,Saint Leonard,Calvert,Standard
+20686,Saint Marys City,Saint Marys,P.O. Box
+20687,Scotland,Saint Marys,Standard
+20688,Solomons,Calvert,Standard
+20689,Sunderland,Calvert,Standard
+20690,Tall Timbers,Saint Marys,Standard
+20692,Valley Lee,Saint Marys,Standard
+20693,Welcome,Charles,Standard
+20695,White Plains,Charles,Standard
+20697,Southern Md Facility,Prince Georges,Unique
+20701,Annapolis Junction,Howard,Standard
+20703,Lanham,Prince Georges,P.O. Box
+20704,Beltsville,Prince Georges,P.O. Box
+20705,Beltsville,Prince Georges,Standard
+20706,Lanham,Prince Georges,Standard
+20707,Laurel,Prince Georges,Standard
+20708,Laurel,Prince Georges,Standard
+20709,Laurel,Prince Georges,P.O. Box
+20710,Bladensburg,Prince Georges,Standard
+20711,Lothian,Anne Arundel,Standard
+20712,Mount Rainier,Prince Georges,Standard
+20714,North Beach,Calvert,Standard
+20715,Bowie,Prince Georges,Standard
+20716,Bowie,Prince Georges,Standard
+20717,Bowie,Prince Georges,P.O. Box
+20718,Bowie,Prince Georges,P.O. Box
+20719,Bowie,Prince Georges,P.O. Box
+20720,Bowie,Prince Georges,Standard
+20721,Bowie,Prince Georges,Standard
+20722,Brentwood,Prince Georges,Standard
+20723,Laurel,Howard,Standard
+20724,Laurel,Anne Arundel,Standard
+20725,Laurel,Prince Georges,P.O. Box
+20726,Laurel,Prince Georges,P.O. Box
+20731,Capitol Heights,Prince Georges,P.O. Box
+20732,Chesapeake Beach,Calvert,Standard
+20733,Churchton,Anne Arundel,Standard
+20735,Clinton,Prince Georges,Standard
+20736,Owings,Calvert,Standard
+20737,Riverdale,Prince Georges,Standard
+20738,Riverdale,Prince Georges,P.O. Box
+20740,College Park,Prince Georges,Standard
+20741,College Park,Prince Georges,P.O. Box
+20742,College Park,Prince Georges,Unique
+20743,Capitol Heights,Prince Georges,Standard
+20744,Fort Washington,Prince Georges,Standard
+20745,Oxon Hill,Prince Georges,Standard
+20746,Suitland,Prince Georges,Standard
+20747,District Heights,Prince Georges,Standard
+20748,Temple Hills,Prince Georges,Standard
+20749,Fort Washington,Prince Georges,P.O. Box
+20750,Oxon Hill,Prince Georges,P.O. Box
+20751,Deale,Anne Arundel,Standard
+20752,Suitland,Prince Georges,P.O. Box
+20753,District Heights,Prince Georges,P.O. Box
+20754,Dunkirk,Calvert,Standard
+20755,Fort George G Meade,Anne Arundel,Standard
+20757,Temple Hills,Prince Georges,P.O. Box
+20758,Friendship,Anne Arundel,Standard
+20759,Fulton,Howard,Standard
+20762,Andrews Air Force Base,Prince Georges,Standard
+20763,Savage,Howard,Standard
+20764,Shady Side,Anne Arundel,Standard
+20765,Galesville,Anne Arundel,P.O. Box
+20768,Greenbelt,Prince Georges,P.O. Box
+20769,Glenn Dale,Prince Georges,Standard
+20770,Greenbelt,Prince Georges,Standard
+20771,Greenbelt,Prince Georges,Unique
+20772,Upper Marlboro,Prince Georges,Standard
+20773,Upper Marlboro,Prince Georges,P.O. Box
+20774,Upper Marlboro,Prince Georges,Standard
+20775,Upper Marlboro,Prince Georges,P.O. Box
+20776,Harwood,Anne Arundel,Standard
+20777,Highland,Howard,Standard
+20778,West River,Anne Arundel,Standard
+20779,Tracys Landing,Anne Arundel,Standard
+20781,Hyattsville,Prince Georges,Standard
+20782,Hyattsville,Prince Georges,Standard
+20783,Hyattsville,Prince Georges,Standard
+20784,Hyattsville,Prince Georges,Standard
+20785,Hyattsville,Prince Georges,Standard
+20787,Hyattsville,Prince Georges,P.O. Box
+20788,Hyattsville,Prince Georges,P.O. Box
+20790,Capitol Heights,Prince Georges,Unique
+20791,Capitol Heights,Prince Georges,P.O. Box
+20792,Upper Marlboro,Prince Georges,P.O. Box
+20794,Jessup,Howard,Standard
+20797,Southern Md Facility,Prince Georges,Unique
+20799,Capitol Heights,Prince Georges,Unique
+20810,Bethesda,Montgomery,Unique
+20811,Bethesda,Montgomery,Unique
+20812,Glen Echo,Montgomery,Standard
+20813,Bethesda,Montgomery,P.O. Box
+20814,Bethesda,Montgomery,Standard
+20815,Chevy Chase,Montgomery,Standard
+20816,Bethesda,Montgomery,Standard
+20817,Bethesda,Montgomery,Standard
+20818,Cabin John,Montgomery,Standard
+20824,Bethesda,Montgomery,P.O. Box
+20825,Chevy Chase,Montgomery,P.O. Box
+20827,Bethesda,Montgomery,P.O. Box
+20830,Olney,Montgomery,P.O. Box
+20832,Olney,Montgomery,Standard
+20833,Brookeville,Montgomery,Standard
+20837,Poolesville,Montgomery,Standard
+20838,Barnesville,Montgomery,Standard
+20839,Beallsville,Montgomery,Standard
+20841,Boyds,Montgomery,Standard
+20842,Dickerson,Montgomery,Standard
+20847,Rockville,Montgomery,P.O. Box
+20848,Rockville,Montgomery,P.O. Box
+20849,Rockville,Montgomery,P.O. Box
+20850,Rockville,Montgomery,Standard
+20851,Rockville,Montgomery,Standard
+20852,Rockville,Montgomery,Standard
+20853,Rockville,Montgomery,Standard
+20854,Potomac,Montgomery,Standard
+20855,Derwood,Montgomery,Standard
+20857,Rockville,Montgomery,Unique
+20859,Potomac,Montgomery,P.O. Box
+20860,Sandy Spring,Montgomery,Standard
+20861,Ashton,Montgomery,Standard
+20862,Brinklow,Montgomery,Standard
+20866,Burtonsville,Montgomery,Standard
+20868,Spencerville,Montgomery,Standard
+20871,Clarksburg,Montgomery,Standard
+20872,Damascus,Montgomery,Standard
+20874,Germantown,Montgomery,Standard
+20875,Germantown,Montgomery,P.O. Box
+20876,Germantown,Montgomery,Standard
+20877,Gaithersburg,Montgomery,Standard
+20878,Gaithersburg,Montgomery,Standard
+20879,Gaithersburg,Montgomery,Standard
+20880,Washington Grove,Montgomery,P.O. Box
+20882,Gaithersburg,Montgomery,Standard
+20883,Gaithersburg,Montgomery,P.O. Box
+20884,Gaithersburg,Montgomery,P.O. Box
+20885,Gaithersburg,Montgomery,P.O. Box
+20886,Montgomery Village,Montgomery,Standard
+20889,Bethesda,Montgomery,Unique
+20891,Kensington,Montgomery,P.O. Box
+20892,Bethesda,Montgomery,Unique
+20894,Bethesda,Montgomery,Unique
+20895,Kensington,Montgomery,Standard
+20896,Garrett Park,Montgomery,P.O. Box
+20897,Suburb Maryland Fac,Montgomery,Unique
+20898,Gaithersburg,Montgomery,P.O. Box
+20899,Gaithersburg,Montgomery,Unique
+20901,Silver Spring,Montgomery,Standard
+20902,Silver Spring,Montgomery,Standard
+20903,Silver Spring,Montgomery,Standard
+20904,Silver Spring,Montgomery,Standard
+20905,Silver Spring,Montgomery,Standard
+20906,Silver Spring,Montgomery,Standard
+20907,Silver Spring,Montgomery,P.O. Box
+20908,Silver Spring,Montgomery,P.O. Box
+20910,Silver Spring,Montgomery,Standard
+20911,Silver Spring,Montgomery,P.O. Box
+20912,Takoma Park,Montgomery,Standard
+20913,Takoma Park,Montgomery,P.O. Box
+20914,Silver Spring,Montgomery,P.O. Box
+20915,Silver Spring,Montgomery,P.O. Box
+20916,Silver Spring,Montgomery,P.O. Box
+20918,Silver Spring,Montgomery,P.O. Box
+20993,Silver Spring,Montgomery,Unique
+20997,Silver Spring,Montgomery,Unique
+21001,Aberdeen,Harford,Standard
+21005,Aberdeen Proving Ground,Harford,Standard
+21009,Abingdon,Harford,Standard
+21010,Gunpowder,Harford,Standard
+21012,Arnold,Anne Arundel,Standard
+21013,Baldwin,Baltimore,Standard
+21014,Bel Air,Harford,Standard
+21015,Bel Air,Harford,Standard
+21017,Belcamp,Harford,Standard
+21018,Benson,Harford,P.O. Box
+21020,Boring,Baltimore,P.O. Box
+21022,Brooklandville,Baltimore,P.O. Box
+21023,Butler,Baltimore,P.O. Box
+21027,Chase,Baltimore,P.O. Box
+21028,Churchville,Harford,Standard
+21029,Clarksville,Howard,Standard
+21030,Cockeysville,Baltimore,Standard
+21031,Hunt Valley,Baltimore,Standard
+21032,Crownsville,Anne Arundel,Standard
+21034,Darlington,Harford,Standard
+21035,Davidsonville,Anne Arundel,Standard
+21036,Dayton,Howard,Standard
+21037,Edgewater,Anne Arundel,Standard
+21040,Edgewood,Harford,Standard
+21041,Ellicott City,Howard,P.O. Box
+21042,Ellicott City,Howard,Standard
+21043,Ellicott City,Howard,Standard
+21044,Columbia,Howard,Standard
+21045,Columbia,Howard,Standard
+21046,Columbia,Howard,Standard
+21047,Fallston,Harford,Standard
+21048,Finksburg,Carroll,Standard
+21050,Forest Hill,Harford,Standard
+21051,Fork,Baltimore,Standard
+21052,Fort Howard,Baltimore,P.O. Box
+21053,Freeland,Baltimore,Standard
+21054,Gambrills,Anne Arundel,Standard
+21056,Gibson Island,Anne Arundel,P.O. Box
+21057,Glen Arm,Baltimore,Standard
+21060,Glen Burnie,Anne Arundel,Standard
+21061,Glen Burnie,Anne Arundel,Standard
+21062,Glen Burnie,Anne Arundel,Unique
+21065,Hunt Valley,Baltimore,Unique
+21071,Glyndon,Baltimore,P.O. Box
+21074,Hampstead,Carroll,Standard
+21075,Elkridge,Howard,Standard
+21076,Hanover,Anne Arundel,Standard
+21077,Harmans,Anne Arundel,Standard
+21078,Havre De Grace,Harford,Standard
+21082,Hydes,Baltimore,Standard
+21084,Jarrettsville,Harford,Standard
+21085,Joppa,Harford,Standard
+21087,Kingsville,Baltimore,Standard
+21088,Lineboro,Carroll,P.O. Box
+21090,Linthicum Heights,Anne Arundel,Standard
+21092,Long Green,Baltimore,P.O. Box
+21093,Lutherville Timonium,Baltimore,Standard
+21094,Lutherville Timonium,Baltimore,P.O. Box
+21102,Manchester,Carroll,Standard
+21104,Marriottsville,Carroll,Standard
+21105,Maryland Line,Baltimore,P.O. Box
+21106,Mayo,Anne Arundel,P.O. Box
+21108,Millersville,Anne Arundel,Standard
+21111,Monkton,Baltimore,Standard
+21113,Odenton,Anne Arundel,Standard
+21114,Crofton,Anne Arundel,Standard
+21117,Owings Mills,Baltimore,Standard
+21120,Parkton,Baltimore,Standard
+21122,Pasadena,Anne Arundel,Standard
+21123,Pasadena,Anne Arundel,P.O. Box
+21128,Perry Hall,Baltimore,Standard
+21130,Perryman,Harford,P.O. Box
+21131,Phoenix,Baltimore,Standard
+21132,Pylesville,Harford,Standard
+21133,Randallstown,Baltimore,Standard
+21136,Reisterstown,Baltimore,Standard
+21139,Riderwood,Baltimore,P.O. Box
+21140,Riva,Anne Arundel,Standard
+21144,Severn,Anne Arundel,Standard
+21146,Severna Park,Anne Arundel,Standard
+21150,Simpsonville,Howard,P.O. Box
+21152,Sparks Glencoe,Baltimore,Standard
+21153,Stevenson,Baltimore,P.O. Box
+21154,Street,Harford,Standard
+21155,Upperco,Baltimore,Standard
+21156,Upper Falls,Baltimore,Standard
+21157,Westminster,Carroll,Standard
+21158,Westminster,Carroll,Standard
+21160,Whiteford,Harford,Standard
+21161,White Hall,Harford,Standard
+21162,White Marsh,Baltimore,Standard
+21163,Woodstock,Howard,Standard
+21201,Baltimore,Baltimore City,Standard
+21202,Baltimore,Baltimore City,Standard
+21203,Baltimore,Baltimore City,P.O. Box
+21204,Towson,Baltimore,Standard
+21205,Baltimore,Baltimore City,Standard
+21206,Baltimore,Baltimore City,Standard
+21207,Gwynn Oak,Baltimore,Standard
+21208,Pikesville,Baltimore,Standard
+21209,Baltimore,Baltimore City,Standard
+21210,Baltimore,Baltimore City,Standard
+21211,Baltimore,Baltimore City,Standard
+21212,Baltimore,Baltimore City,Standard
+21213,Baltimore,Baltimore City,Standard
+21214,Baltimore,Baltimore City,Standard
+21215,Baltimore,Baltimore City,Standard
+21216,Baltimore,Baltimore City,Standard
+21217,Baltimore,Baltimore City,Standard
+21218,Baltimore,Baltimore City,Standard
+21219,Sparrows Point,Baltimore,Standard
+21220,Middle River,Baltimore,Standard
+21221,Essex,Baltimore,Standard
+21222,Dundalk,Baltimore,Standard
+21223,Baltimore,Baltimore City,Standard
+21224,Baltimore,Baltimore City,Standard
+21225,Brooklyn,Baltimore City,Standard
+21226,Curtis Bay,Anne Arundel,Standard
+21227,Halethorpe,Baltimore,Standard
+21228,Catonsville,Baltimore,Standard
+21229,Baltimore,Baltimore City,Standard
+21230,Baltimore,Baltimore City,Standard
+21231,Baltimore,Baltimore City,Standard
+21233,Baltimore,Baltimore City,Standard
+21234,Parkville,Baltimore,Standard
+21235,Baltimore,Baltimore City,Unique
+21236,Nottingham,Baltimore,Standard
+21237,Rosedale,Baltimore,Standard
+21239,Baltimore,Baltimore City,Standard
+21240,Baltimore,Anne Arundel,Standard
+21241,Baltimore,Baltimore City,Unique
+21244,Windsor Mill,Baltimore,Standard
+21250,Baltimore,Baltimore,Unique
+21251,Baltimore,Baltimore City,Unique
+21252,Towson,Baltimore,Unique
+21263,Baltimore,Baltimore City,Unique
+21264,Baltimore,Baltimore City,Unique
+21270,Baltimore,Baltimore City,P.O. Box
+21273,Baltimore,Baltimore City,Unique
+21275,Baltimore,Baltimore City,Unique
+21278,Baltimore,Baltimore City,Unique
+21279,Baltimore,Baltimore City,Unique
+21281,Baltimore,Baltimore City,P.O. Box
+21282,Pikesville,Baltimore,P.O. Box
+21284,Towson,Baltimore,P.O. Box
+21285,Towson,Baltimore,P.O. Box
+21286,Towson,Baltimore,Standard
+21287,Baltimore,Baltimore City,Standard
+21289,Baltimore,Baltimore City,Unique
+21290,Baltimore,Baltimore City,Unique
+21297,Baltimore,Baltimore City,P.O. Box
+21298,Baltimore,Baltimore City,Unique
+21401,Annapolis,Anne Arundel,Standard
+21402,Annapolis,Anne Arundel,Standard
+21403,Annapolis,Anne Arundel,Standard
+21404,Annapolis,Anne Arundel,P.O. Box
+21405,Annapolis,Anne Arundel,Standard
+21409,Annapolis,Anne Arundel,Standard
+21411,Annapolis,Anne Arundel,Unique
+21412,Annapolis,Anne Arundel,Unique
+21501,Cumberland,Allegany,P.O. Box
+21502,Cumberland,Allegany,Standard
+21503,Cumberland,Allegany,P.O. Box
+21504,Cumberland,Allegany,P.O. Box
+21505,Cumberland,Allegany,P.O. Box
+21520,Accident,Garrett,Standard
+21521,Barton,Allegany,Standard
+21522,Bittinger,Garrett,Standard
+21523,Bloomington,Garrett,Standard
+21524,Corriganville,Allegany,P.O. Box
+21528,Eckhart Mines,Allegany,P.O. Box
+21529,Ellerslie,Allegany,P.O. Box
+21530,Flintstone,Allegany,Standard
+21531,Friendsville,Garrett,Standard
+21532,Frostburg,Allegany,Standard
+21536,Grantsville,Garrett,Standard
+21538,Kitzmiller,Garrett,Standard
+21539,Lonaconing,Allegany,Standard
+21540,Luke,Allegany,Standard
+21541,Mc Henry,Garrett,Standard
+21542,Midland,Allegany,P.O. Box
+21543,Midlothian,Allegany,P.O. Box
+21545,Mount Savage,Allegany,Standard
+21550,Oakland,Garrett,Standard
+21555,Oldtown,Allegany,Standard
+21556,Pinto,Allegany,P.O. Box
+21557,Rawlings,Allegany,Standard
+21560,Spring Gap,Allegany,P.O. Box
+21561,Swanton,Garrett,Standard
+21562,Westernport,Allegany,Standard
+21601,Easton,Talbot,Standard
+21607,Barclay,Queen Annes,Standard
+21609,Bethlehem,Caroline,P.O. Box
+21610,Betterton,Kent,Standard
+21612,Bozman,Talbot,Standard
+21613,Cambridge,Dorchester,Standard
+21617,Centreville,Queen Annes,Standard
+21619,Chester,Queen Annes,Standard
+21620,Chestertown,Kent,Standard
+21622,Church Creek,Dorchester,Standard
+21623,Church Hill,Queen Annes,Standard
+21624,Claiborne,Talbot,P.O. Box
+21625,Cordova,Talbot,Standard
+21626,Crapo,Dorchester,Standard
+21627,Crocheron,Dorchester,Standard
+21628,Crumpton,Queen Annes,P.O. Box
+21629,Denton,Caroline,Standard
+21631,East New Market,Dorchester,Standard
+21632,Federalsburg,Caroline,Standard
+21634,Fishing Creek,Dorchester,Standard
+21635,Galena,Kent,Standard
+21636,Goldsboro,Caroline,Standard
+21638,Grasonville,Queen Annes,Standard
+21639,Greensboro,Caroline,Standard
+21640,Henderson,Caroline,Standard
+21641,Hillsboro,Caroline,P.O. Box
+21643,Hurlock,Dorchester,Standard
+21644,Ingleside,Queen Annes,Standard
+21645,Kennedyville,Kent,Standard
+21647,Mcdaniel,Talbot,Standard
+21648,Madison,Dorchester,Standard
+21649,Marydel,Caroline,Standard
+21650,Massey,Kent,Standard
+21651,Millington,Kent,Standard
+21652,Neavitt,Talbot,P.O. Box
+21653,Newcomb,Talbot,P.O. Box
+21654,Oxford,Talbot,Standard
+21655,Preston,Caroline,Standard
+21656,Price,Queen Annes,P.O. Box
+21657,Queen Anne,Queen Annes,Standard
+21658,Queenstown,Queen Annes,Standard
+21659,Rhodesdale,Dorchester,Standard
+21660,Ridgely,Caroline,Standard
+21661,Rock Hall,Kent,Standard
+21662,Royal Oak,Talbot,Standard
+21663,Saint Michaels,Talbot,Standard
+21664,Secretary,Dorchester,P.O. Box
+21665,Sherwood,Talbot,Standard
+21666,Stevensville,Queen Annes,Standard
+21667,Still Pond,Kent,Standard
+21668,Sudlersville,Queen Annes,Standard
+21669,Taylors Island,Dorchester,P.O. Box
+21670,Templeville,Caroline,P.O. Box
+21671,Tilghman,Talbot,Standard
+21672,Toddville,Dorchester,Standard
+21673,Trappe,Talbot,Standard
+21675,Wingate,Dorchester,Standard
+21676,Wittman,Talbot,Standard
+21677,Woolford,Dorchester,Standard
+21678,Worton,Kent,Standard
+21679,Wye Mills,Talbot,Standard
+21690,Chestertown,Queen Annes,Unique
+21701,Frederick,Frederick,Standard
+21702,Frederick,Frederick,Standard
+21703,Frederick,Frederick,Standard
+21704,Frederick,Frederick,Standard
+21705,Frederick,Frederick,P.O. Box
+21709,Frederick,Frederick,Unique
+21710,Adamstown,Frederick,Standard
+21711,Big Pool,Washington,Standard
+21713,Boonsboro,Washington,Standard
+21714,Braddock Heights,Frederick,P.O. Box
+21715,Brownsville,Washington,P.O. Box
+21716,Brunswick,Frederick,Standard
+21717,Buckeystown,Frederick,P.O. Box
+21718,Burkittsville,Frederick,Standard
+21719,Cascade,Washington,Standard
+21720,Cavetown,Washington,P.O. Box
+21721,Chewsville,Washington,P.O. Box
+21722,Clear Spring,Washington,Standard
+21723,Cooksville,Howard,Standard
+21727,Emmitsburg,Frederick,Standard
+21733,Fairplay,Washington,Standard
+21734,Funkstown,Washington,P.O. Box
+21737,Glenelg,Howard,Standard
+21738,Glenwood,Howard,Standard
+21740,Hagerstown,Washington,Standard
+21741,Hagerstown,Washington,P.O. Box
+21742,Hagerstown,Washington,Standard
+21746,Hagerstown,Washington,Unique
+21747,Hagerstown,Washington,P.O. Box
+21749,Hagerstown,Washington,Unique
+21750,Hancock,Washington,Standard
+21754,Ijamsville,Frederick,Standard
+21755,Jefferson,Frederick,Standard
+21756,Keedysville,Washington,Standard
+21757,Keymar,Carroll,Standard
+21758,Knoxville,Frederick,Standard
+21759,Ladiesburg,Frederick,P.O. Box
+21762,Libertytown,Frederick,P.O. Box
+21765,Lisbon,Howard,P.O. Box
+21766,Little Orleans,Allegany,Standard
+21767,Maugansville,Washington,Standard
+21769,Middletown,Frederick,Standard
+21770,Monrovia,Frederick,Standard
+21771,Mount Airy,Frederick,Standard
+21773,Myersville,Frederick,Standard
+21774,New Market,Frederick,Standard
+21775,New Midway,Frederick,P.O. Box
+21776,New Windsor,Carroll,Standard
+21777,Point Of Rocks,Frederick,Standard
+21778,Rocky Ridge,Frederick,Standard
+21779,Rohrersville,Washington,Standard
+21780,Sabillasville,Frederick,Standard
+21781,Saint James,Washington,P.O. Box
+21782,Sharpsburg,Washington,Standard
+21783,Smithsburg,Washington,Standard
+21784,Sykesville,Carroll,Standard
+21787,Taneytown,Carroll,Standard
+21788,Thurmont,Frederick,Standard
+21790,Tuscarora,Frederick,Standard
+21791,Union Bridge,Carroll,Standard
+21792,Unionville,Frederick,P.O. Box
+21793,Walkersville,Frederick,Standard
+21794,West Friendship,Howard,Standard
+21795,Williamsport,Washington,Standard
+21797,Woodbine,Howard,Standard
+21798,Woodsboro,Frederick,Standard
+21801,Salisbury,Wicomico,Standard
+21802,Salisbury,Wicomico,P.O. Box
+21803,Salisbury,Wicomico,P.O. Box
+21804,Salisbury,Wicomico,Standard
+21810,Allen,Wicomico,P.O. Box
+21811,Berlin,Worcester,Standard
+21813,Bishopville,Worcester,Standard
+21814,Bivalve,Wicomico,Standard
+21817,Crisfield,Somerset,Standard
+21821,Deal Island,Somerset,Standard
+21822,Eden,Worcester,Standard
+21824,Ewell,Somerset,Standard
+21826,Fruitland,Wicomico,Standard
+21829,Girdletree,Worcester,Standard
+21830,Hebron,Wicomico,Standard
+21835,Linkwood,Dorchester,Standard
+21836,Manokin,Somerset,P.O. Box
+21837,Mardela Springs,Wicomico,Standard
+21838,Marion Station,Somerset,Standard
+21840,Nanticoke,Wicomico,Standard
+21841,Newark,Worcester,Standard
+21842,Ocean City,Worcester,Standard
+21843,Ocean City,Worcester,P.O. Box
+21849,Parsonsburg,Wicomico,Standard
+21850,Pittsville,Wicomico,Standard
+21851,Pocomoke City,Worcester,Standard
+21852,Powellville,Wicomico,P.O. Box
+21853,Princess Anne,Somerset,Standard
+21856,Quantico,Wicomico,Standard
+21857,Rehobeth,Somerset,P.O. Box
+21861,Sharptown,Wicomico,P.O. Box
+21862,Showell,Worcester,Standard
+21863,Snow Hill,Worcester,Standard
+21864,Stockton,Worcester,Standard
+21865,Tyaskin,Wicomico,Standard
+21866,Tylerton,Somerset,P.O. Box
+21867,Upper Fairmount,Somerset,P.O. Box
+21869,Vienna,Dorchester,Standard
+21871,Westover,Somerset,Standard
+21872,Whaleyville,Worcester,Standard
+21874,Willards,Wicomico,Standard
+21875,Delmar,Wicomico,Standard
+21890,Westover,Somerset,Unique
+21901,North East,Cecil,Standard
+21902,Perry Point,Cecil,P.O. Box
+21903,Perryville,Cecil,Standard
+21904,Port Deposit,Cecil,Standard
+21911,Rising Sun,Cecil,Standard
+21912,Warwick,Cecil,Standard
+21913,Cecilton,Cecil,P.O. Box
+21914,Charlestown,Cecil,P.O. Box
+21915,Chesapeake City,Cecil,Standard
+21916,Childs,Cecil,P.O. Box
+21917,Colora,Cecil,Standard
+21918,Conowingo,Cecil,Standard
+21919,Earleville,Cecil,Standard
+21920,Elk Mills,Cecil,P.O. Box
+21921,Elkton,Cecil,Standard
+21922,Elkton,Cecil,P.O. Box
+21930,Georgetown,Cecil,P.O. Box

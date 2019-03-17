@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Story>
+   <books>
+      <Title>To Kill A Mockingbird</Title>
+      <Authors>Harper Lee</Authors>
+      <ASIN>B00K1XOV5G</ASIN>
+      <Publisher>Cornerstone Digital</Publisher>
+      <Published>8-Jul-14</Published>
+      <Pages>322</Pages>
+   </books>
+   <books>
+      <Title>Pride &amp; Prejudice</Title>
+      <Authors>Inkwater Press, Jane Austen</Authors>
+      <ASIN>1853260002</ASIN>
+      <Publisher>Wordsworth Editions Ltd</Publisher>
+      <Published>1-Sep-97</Published>
+      <Pages>329</Pages>
+   </books>
+   <books>
+      <Title>The Hobbit: Or, There and Back Again</Title>
+      <Authors>J.R.R. Tolkien</Authors>
+      <ASIN>061815082X</ASIN>
+      <Publisher>Young Readers Paperback Tolkien</Publisher>
+      <Published>1-Sep-01</Published>
+      <Pages>333</Pages>
+   </books>
+</Story>

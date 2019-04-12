@@ -1,0 +1,46 @@
+---
+title: "DATA607_Week11_Discussion"
+author: "Mohamed Thasleem Kalikul Zaman"
+date: "April 12, 2019"
+output: html_document
+---
+<h2>Location-based recommendation</h2>
+
+Location-based recommendation is a recommender system that incorporates location information, such as that from a mobile device, into algorithms to attempt to provide more-relevant recommendations to users like Google Maps
+
+The application can be used on social places, restaurants and other people interest near user location
+
+Facebook and Twitter are using location information and tend to show the recommened events, local trends near to users with increasing popular usage of smart phones
+
+The Recommentation systems mainly classified on two ways, collaborative or content-based, the location based will be mostly on collaborative side
+<li>Collaborative - User's past behavior as well as similar decisions made by other users<br>
+<li>Content based - Utilize a series of discrete characteristics of an item in order to recommend additional items with similar properties
+
+<strong>Scenario Analysis</strong><br>
+
+1) Who are your target users?
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;People using smart phones with social apps like facebook, twitter, instagram etc
+
+2) What are their goals?
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Marketting, crowd gathering, people interest, Advertisement
+
+3) How can you help them accomplish those goals?
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Improve the business of adversting companies and business model
+
+<strong>Reverse Engineering</strong>
+
+The providers of a recommendation engine may introduce some stochasticity into their recommendation process, making this even harder, to give the final point to convince you this is not a worthy endeavor, now most of the recommendation are more positive than negative, like below
+
+The Reverse engineering should recommend as below
+"Hey, It is not recommended to go that place at dark evening, because user reported that there is no street lights and hard for vehicles to travel"
+
+<strong>Suggestion</strong><br>
+More roubust algorithms and hybrid models needs to built with help of AI and Machine learning in order improve the recommnder systems
+
+<strong>References</strong><br>
+https://www.researchgate.net/publication/312480566_A_comparative_study_of_location-based_recommendation_systems
+https://www.hindawi.com/journals/cin/2016/1291358/
+

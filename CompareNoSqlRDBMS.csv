@@ -1,5 +1,5 @@
 Type,Col1,Col2
-NoSQL,Primary goal of flexibility and speed~ rather than 100% data integrity,ACID compliancy(Atomicity~ Consistency~ Isolation~ Durability)
+NoSQL,Primary goal of flexibility and speed* rather than 100% data integrity,ACID compliancy(Atomicity* Consistency* Isolation* Durability)
 NoSQL,Rapid development,Has to follow SDLC process involving vendors and data administors
 NoSQL,Using cloud computing and storage,Very Limited options available
 NoSQL,Storing large volumes of data without structure,Expensive to buy storage
@@ -8,8 +8,8 @@ NoSQL,Maintaining NoSQL Servers is Less Expensive,Maintainance is high
 NoSQL,No Schema or Fixed Data model,It has to follow some Schema or fixed data model
 RDBMS,Most of the leading RDMS databases are Commerical and efficient,NoSQL database is Open Source
 RDBMS,Stored Procedures and Function,No Stored Procedures
-RDBMS,Since it videly used~ finding experts is easy,Difficult for finding nosql experts
+RDBMS,Since it videly used* finding experts is easy,Difficult for finding nosql experts
 RDBMS,Most of the databases are equal on their foundation like (DML/DDL etc) but might differ on architecture,No two NoSQL databases are created equal
 RDBMS,Logic-related discrete data requirements which can be identified up front,Evolving databases
-RDBMS,Standards-based proven technology with good developer experience and support.,Since it is in early stage~ not proven at it best
+RDBMS,Standards-based proven technology with good developer experience and support.,Since it is in early stage* not proven at it best
 RDBMS,Flexible queries,Limited queries

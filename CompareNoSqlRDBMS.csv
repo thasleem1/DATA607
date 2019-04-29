@@ -1,5 +1,5 @@
 Type,Col1,Col2
-NoSQL,Primary goal of flexibility and speed| rather than 100% data integrity,ACID compliancy(Atomicity* Consistency* Isolation* Durability)
+NoSQL,Primary goal of flexibility and speed~ rather than 100% data integrity,ACID compliancy(Atomicity* Consistency* Isolation* Durability)
 NoSQL,Rapid development,Has to follow SDLC process involving vendors and data administors
 NoSQL,Using cloud computing and storage,Very Limited options available
 NoSQL,Storing large volumes of data without structure,Expensive to buy storage
